@@ -13,12 +13,12 @@ function getRandomInt(min, max) {
 
 //fonction de changement de couleur en code RGB
 function randomColorRGB() {
-  let colorT = [];
+  const colorT = [];
 
   for (let i = 0; i <= 2; i++) {
-    let min = 0;
-    let max = 255;
-    let randomNumber = getRandomInt(min, max);
+    const min = 0;
+    const max = 255;
+    const randomNumber = getRandomInt(min, max);
     colorT[i] = randomNumber;
   }
 
@@ -28,7 +28,7 @@ function randomColorRGB() {
 
 // passage de tableau a string
 function changeColor() {
-  let color = "rgb(" + String(randomColorRGB()) + ")";
+  const color = "rgb(" + String(randomColorRGB()) + ")";
   console.log(color);
   return color;
 }
