@@ -1,5 +1,8 @@
 //déclaration const
 const btnValidation = document.getElementById("leBoutton");
+const listeMots = createWord();
+let essaie = 3;
+
 //[x][1] = mots a choisis et [x][!1] = mots indices
 
 //fonction randint
@@ -22,4 +25,9 @@ function createWord() {
   return listSelect;
 }
 
-function tentative() {}
+function runEssai(mottrouver, word) {
+  if (word == mottrouver) {
+  }
+}
+
+function lunchGame() {}
