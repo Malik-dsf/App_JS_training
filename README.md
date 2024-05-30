@@ -6,28 +6,29 @@ Ce projet est conçu pour fournir des exercices d'entraînement en JavaScript af
 Contenu du Projet
 
     Exercices de Base :
-        - Variables et Types de Données
-        - Opérateurs
-        - Structures de Contrôle (boucles, conditions)
+        Variables et Types de Données
+        Opérateurs
+        Structures de Contrôle (boucles, conditions)
 
     Exercices Intermédiaires :
-        - Fonctions
-        - Objets et Tableaux
-        - Manipulation du DOM
+        Fonctions
+        Objets et Tableaux
+        Manipulation du DOM
 
     Exercices Avancés :
-        - Promesses et Asynchronisme
-        - Modules et Importations
-        - Manipulation des APIs
+        Promesses et Asynchronisme
+        Modules et Importations
+        Manipulation des APIs
 
 ## Installation
 
     Cloner le Répertoire
 
     bash
-
-git clone [https://github.com/](https://github.com/Malik-dsf/App_JS_training)
-cd nom-du-projet
+    
+    git clone [https://github.com/](https://github.com/Malik-dsf/App_JS_training)
+    
+    cd nom-du-projet
 
 ## Installer les Dépendances
 Ce projet n'a pas de dépendances externes spécifiques. Vous pouvez commencer à travailler sur les exercices directement après avoir cloné le répertoire.
